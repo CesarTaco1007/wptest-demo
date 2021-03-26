@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d wp-test"
+    "deploy": "gh-pages -d wp-admin"
   },
   "repository": {
     "type": "git",
